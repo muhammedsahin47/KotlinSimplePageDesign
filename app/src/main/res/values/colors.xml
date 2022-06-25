@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--Renklerim-->
+    <color name="yesilRenk">#32A643</color>
+    <color name="butonRenkParlak">#EBF7ED</color>
+    <color name="yaziRenkSiyah">#0D0D0D</color>
+    <color name="yaziRenkGri">#8C8C8C</color>
+    <color name="constraintLayoutRenk">#F2F2F2</color>
+    <color name="nemGunesArkaRenk">#FAFAFA</color>
+    <color name="puanlama">#F2BB13</color>
+    <color name="viewRenk">#FFFFFFFF</color>
+
+
+</resources>

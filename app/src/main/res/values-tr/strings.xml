@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ODEV-3</string>
+    <string name="aloeveraBaslik">Aloevera</string>
+    <string name="degerlendirme">4.9</string>
+    <string name="goruntuleme">(420 Görüntüleme)</string>
+    <string name="fiyat">40.50 ₺</string>
+    <string name="gunesIsigi">27-35%</string>
+    <string name="gunesIsigiYazi">Güneş Işığı</string>
+    <string name="nem">65%</string>
+    <string name="nemYazi">Nem</string>
+    <string name="hakkinda">Hakkında</string>
+    <string name="aciklama">Bir okuyucunun, sayfa düzenine bakarken sayfanın okunabilir içeriği tarafından dikkatinin dağılacağı uzun süredir bilinen bir gerçektir.</string>
+    <string name="butonYazi">Satın Al</string>
+    <string name="butonArti">+</string>
+    <string name="butonEksi">-</string>
+</resources>

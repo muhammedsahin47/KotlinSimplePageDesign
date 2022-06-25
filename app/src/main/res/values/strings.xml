@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ODEV-3</string>
+    <string name="aloeveraBaslik">Aloevera</string>
+    <string name="degerlendirme">4.9</string>
+    <string name="goruntuleme">(420 Reviews)</string>
+    <string name="fiyat">$ 40.50</string>
+    <string name="gunesIsigi">27-35%</string>
+    <string name="gunesIsigiYazi">Sunlight</string>
+    <string name="nem">65%</string>
+    <string name="nemYazi">Humidity</string>
+    <string name="hakkinda">About</string>
+    <string name="aciklama">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+    <string name="butonYazi">BUY NOW</string>
+    <string name="butonArti">+</string>
+    <string name="butonEksi">-</string>
+</resources>
